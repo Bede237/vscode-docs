@@ -52,6 +52,7 @@ A special variable has been added to the accepted syntax of `c_cpp_properties.js
     {
         "name": "Win32",
         "includePath": [
+            "C:\\Users\\TANGWA BLESS\\MinGW\\include"
             "additional/paths",
             "${default}"
         ],
