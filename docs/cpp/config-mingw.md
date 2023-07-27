@@ -385,6 +385,7 @@ Visual Studio Code places these settings in `.vscode\c_cpp_properties.json`. If 
         {
             "name": "GCC",
             "includePath": [
+                "C:\\Users\\TANGWA BLESS\\MinGW\\include"
                 "${workspaceFolder}/**"
             ],
             "defines": [
